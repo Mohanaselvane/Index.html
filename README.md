@@ -124,7 +124,7 @@
     <div class="container" id="projects">
         <h2>Projects</h2>
         <ul>
-            <li>Projects will be updated soon...</li>
+            <li>Data handler</li>
         </ul>
     </div>
 
